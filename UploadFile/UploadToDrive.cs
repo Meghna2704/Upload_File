@@ -16,7 +16,7 @@ namespace UploadFile
             try
             {
                 string credentialsPath = "Credentials.json";
-                string folderId = "1spaiwXSL49kKftpvNZ6qSq-DICGAmcKx";
+                string folderId = "enter_your_folderId";
                 string fileToUpload = filePath;
 
                 GoogleCredential credential;
