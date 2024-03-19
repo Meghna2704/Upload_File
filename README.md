@@ -1,1 +1,2 @@
 # UploadFile
+This project is a desktop application that gives a demo of how you can upload your documents on Google Drive and store them for further manipulation. Here, you will need to generate your own credentials file from Google Cloud Console, you can find a step by step tutorial of that in my medium article <a href="https://medium.com/@meghnav274/uploading-files-to-google-drive-using-net-console-app-f0aae69a3f0f"> Uploading files to Google Drive using .NET Console App </a>.  
